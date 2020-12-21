@@ -80,11 +80,13 @@ Sélectionnez Completed dans le menu en bas de votre liste.
 Le code est organisé dans une architecture Model–view–controller (Modèle-vue-contrôleur ou MVC). Cela permet de bien séparer les parties front-end du code. Comme le montre le schéma, il y a trois parties. La partie Vue s’occupe de l’affichage (l’abstraction du DOM dans notre projet). La partie modèle gère les données (sous forme JSON dans notre projet). Le contrôleur fait la relation entre la vue et le modèle.
 
 <img src="MVC.png">
-Schéma venant du cours Découvrez l'architecture Modèle-Vue-Contrôleur de Open Classrooms
+*Schéma venant du cours Découvrez l'architecture Modèle-Vue-Contrôleur de Open Classrooms*
+
 
 
 
 Voici les fichiers du projet:
+
 <img src="listFichiersJs.png">
 
 Ce que on appelle la vue dans ce projet c’est la classe view.js. Cette classe est une abstraction du DOM.
