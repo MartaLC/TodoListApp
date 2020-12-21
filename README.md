@@ -96,7 +96,7 @@ Le contrôleur gère la relation entre le modèle et la partie vue. Dans le proj
 L’écran de l’application est démarré par index.html. C’est le point d’entrée de l’application.
 Il charge les fichiers CSS et Javascript.
 
-<img src="point_dentree.png" align="center">
+<img src="point_dentree.png">
 
 App.js est la classe javascript qui va créer les objets MVC (model.js, view.js,controller.js). 
 L’objet controller lorsque il est crée a une référence des objets model et view.
@@ -106,7 +106,7 @@ De cette façon le controller fait les associations entre le modèle et le view.
 
 Voici le schéma du call flow :
 
-<img src="schema_call_flow_p2.png" align="center">
+<img src="schema_call_flow_p2.png">
 
 En suite je vais expliquer les autres classes:
 
@@ -135,7 +135,7 @@ Cliquer sur SpecRunner.html
 
 2. Vous devriez observer les tests passants en vert:
 
-<img src="screenshot_tests.png" align="center"
+<img src="screenshot_tests.png">
 
 
 
