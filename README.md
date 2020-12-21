@@ -34,14 +34,14 @@ Pour confirmer le changement cliquer «Entrée».
 
 <img src="ReadMeImages/modifierPart3.png">
 
-###Suppression de la tâche
+### Suppression de la tâche
 
 Pour supprimer la tâche, survolez le coursor sur la partie droite de la tâche. Vous allez percevoir un croix. 
 Pour supprimer la ligne cliquer sur la croix.
 
 <img src="ReadMeImages/suppression.png">
 
-###Marquer une tâche comme complète
+### Marquer une tâche comme complète
 
 Cliquer sur la partie gauche de votre tâche pour marquer l’activité comme faite.
 
@@ -49,8 +49,15 @@ Cliquer sur la partie gauche de votre tâche pour marquer l’activité comme fa
 Une fois cliqué,la tâche va apparaître comme barrée.
 <img src="ReadMeImages/tacheBarré.png">
 
+### Filtrer les tâches
 
+Vous pouvez également faire un tri parmi vos tâches avec des options suivantes :
 
+ - All – affichage de toutes les tâches
+ - Active-affichage des tâches à faire
+ - Completed- les tâches terminées
+
+<img src="ReadMeImages/ListOfTasksNoFilter.png">
 
 
 
