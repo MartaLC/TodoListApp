@@ -59,5 +59,27 @@ Vous pouvez également faire un tri parmi vos tâches avec des options suivantes
 
 <img src="ReadMeImages/ListOfTasksNoFilter.png">
 
+#### Affichage All
+Pour voir la liste des toutes tâches à faire, sélectionnez All dans le menu en bas de votre liste.
+
+<img src="ReadMeImages/filtrageAllOptions.png">
+
+####Affichage des tâches en cours
+Sélectionnez Active dans le menu en bas de votre liste.
+
+<img src="ReadMeImages/activeTasks.png">
+
+####Affichage des tâches en complètes
+
+Sélectionnez Completed dans le menu en bas de votre liste.
+
+<img src="ReadMeImages/completedTasks.png">
+
+
+
+
+
+
+
 
 
