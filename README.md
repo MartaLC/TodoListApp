@@ -36,11 +36,18 @@ Pour confirmer le changement cliquer «Entrée».
 
 ###Suppression de la tâche
 
+Pour supprimer la tâche, survolez le coursor sur la partie droite de la tâche. Vous allez percevoir un croix. 
+Pour supprimer la ligne cliquer sur la croix.
 
+<img src="ReadMeImages/suppression.png">
 
+###Marquer une tâche comme complète
 
+Cliquer sur la partie gauche de votre tâche pour marquer l’activité comme faite.
 
-
+<img src="ReadMeImages/marquerLigne.png">
+Une fois cliqué,la tâche va apparaître comme barrée.
+<img src="ReadMeImages/tacheBarré.png">
 
 
 
